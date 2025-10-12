@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=g-sanner&show_icons=true&theme=gotham)
+![Grace's GitHub stats](https://github-readme-stats.vercel.app/api?username=g-sanner&show_icons=true&theme=gotham&include_all_commits=true)
 
 <!--
 **g-sanner/g-sanner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
