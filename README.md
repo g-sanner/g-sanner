@@ -6,7 +6,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=g-sanner&show_icons=true&theme=gotham&count_private=true&include_all_commits=true&hide=contribs" alt="GitHub Stats" />
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=g-sanner&theme=gotham&mode=weekly" alt="GitHub Streak" /></a>
+  <!-- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=g-sanner&theme=gotham&mode=weekly" alt="GitHub Streak" /></a> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-sanner&theme=gotham&layout=compact&langs_count=4" alt="Top Languages" />
 </div>
 
