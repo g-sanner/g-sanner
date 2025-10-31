@@ -5,8 +5,8 @@
 <br/>
 
 <div align="center">
+  <a href="https://github-readme-streak-stats-eight.vercel.app/demo"><img src="https://streak-stats.demolab.com?user=g-sanner&theme=gotham&mode=weekly" alt="GitHub Streak" /></a> <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=g-sanner&show_icons=true&theme=gotham&count_private=true&include_all_commits=true&hide=contribs" alt="GitHub Stats" />
-  <!-- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=g-sanner&theme=gotham&mode=weekly" alt="GitHub Streak" /></a> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-sanner&theme=gotham&layout=compact&langs_count=4" alt="Top Languages" />
 </div>
 
