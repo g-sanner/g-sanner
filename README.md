@@ -5,7 +5,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-sanner&theme=gotham&layout=compact&langs_count=4" alt="Top Languages" /> <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-sanner&theme=gotham&layout=compact" alt="Top Languages" /> <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=g-sanner&show_icons=true&theme=gotham&count_private=true&include_all_commits=true&hide=contribs" alt="GitHub Stats" />
 </div>
 
