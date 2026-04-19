@@ -5,11 +5,10 @@
 <br/>
 
 <div align="center">
-  <!-- Light mode image -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-sanner&theme=buefy&layout=compact#gh-light-mode-only" alt="Top Languages - light mode" />
 
-<!-- Dark mode image -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-sanner&theme=gotham&layout=compact#gh-dark-mode-only" alt="Top Languages - dark mode" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=g-sanner&theme=buefy&layout=compact#gh-light-mode-only)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=g-sanner&theme=gotham&layout=compact#gh-dark-mode-only)
   
 <br/>
 
