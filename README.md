@@ -16,7 +16,15 @@
   
 <br/>
 
+<picture>
+  <source srcset="https://github-readme-stats.vercel.app/api?username=g-sanner&show_icons=true&theme=gotham&count_private=true&include_all_commits=true&hide=contribs" media="(prefers-color-scheme: dark)" />
+  
+  <source srcset="https://github-readme-stats.vercel.app/api?username=g-sanner&show_icons=true&theme=gotham&count_private=true&include_all_commits=true&hide=contribs" media="(prefers-color-scheme: light)" />
+
   <img src="https://github-readme-stats.vercel.app/api?username=g-sanner&show_icons=true&theme=gotham&count_private=true&include_all_commits=true&hide=contribs" alt="GitHub Stats" />
+
+</picture>
+
 </div>
 
 <br/>
