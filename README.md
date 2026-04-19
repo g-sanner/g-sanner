@@ -5,10 +5,14 @@
 <br/>
 
 <div align="center">
+<picture>
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=g-sanner&theme=gotham&layout=compact" media="(prefers-color-scheme: dark)" />
+  
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=g-sanner&theme=buefy&layout=compact" media="(prefers-color-scheme: light)" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=g-sanner&theme=buefy&layout=compact#gh-light-mode-only)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-sanner&theme=gotham&layout=compact" alt="Top Languages" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=g-sanner&theme=gotham&layout=compact#gh-dark-mode-only)
+</picture>
   
 <br/>
 
